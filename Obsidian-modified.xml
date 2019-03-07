@@ -92,13 +92,13 @@ Notepad++ Custom Style
         <LexerType name="bash" desc="bash" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ERROR" styleID="1" fgColor="FFC6C6" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="93C763" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="FFFF80" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="5" fgColor="EC7600" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFF80" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="IDENTIFIER" styleID="8" fgColor="678CB1" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SCALAR" styleID="9" fgColor="B7C8D9" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="00FFFF" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="8" fgColor="0080FF" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="SCALAR" styleID="9" fgColor="FF80FF" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="66747B" bgColor="293134" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="PARAM" styleID="10" fgColor="A082BD" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="BACKTICKS" styleID="11" fgColor="D39745" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -299,7 +299,7 @@ Notepad++ Custom Style
             <WordsStyle name="VALUE" styleID="19" fgColor="FF8000" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ENTITY" styleID="10" fgColor="BBBBBB" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-        <LexerType name="ini" desc="ini file" ext="conf cfg">
+        <LexerType name="ini" desc="ini file" ext="conf cfg gitconfig">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="293134" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="SECTION" styleID="2" fgColor="A082BD" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
