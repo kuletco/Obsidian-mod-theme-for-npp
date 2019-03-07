@@ -1,2 +1,5 @@
-# Obsidian-mod-theme-for-npp
-Obsidian Modify Theme (Dark) for Notepad++
+# Notepad++ Themes
+
+## Obsidian Modify Theme (Dark) for Notepad++ 
+Obsidian-modified.xml
+
